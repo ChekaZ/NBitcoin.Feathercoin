@@ -1,13 +1,13 @@
-# NBitcoin.Litecoin
+# NBitcoin.Feathercoin
 
-This project allows NBitcoin to support Litecoin.
-To register Litecoin extensions, run:
+This project allows NBitcoin to support Feathercoin.
+To register Feathercoin extensions, run:
 
 ```
-NBitcoin.Litecoin.Networks.Register();
+NBitcoin.Feathercoin.Networks.Register();
 ```
 
-You can then use NBitcoin with `NBitcoin.Litecoin.Networks.Mainnet` or `NBitcoin.Litecoin.Networks.Testnet`.
+You can then use NBitcoin with `NBitcoin.Feathercoin.Networks.Mainnet` or `NBitcoin.Feathercoin.Networks.Testnet`.
 Alternatively you can use `NBitcoin.Network.GetNetwork("ltc-main")` to get the Network object.
-You can then start using Litecoin in the same way you do with Bitcoin.
+You can then start using Feathercoin in the same way you do with Bitcoin.
 

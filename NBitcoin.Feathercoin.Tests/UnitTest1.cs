@@ -3,7 +3,7 @@ using NBitcoin.Protocol;
 using System;
 using Xunit;
 
-namespace NBitcoin.Litecoin.Tests
+namespace NBitcoin.Feathercoin.Tests
 {
     public class UnitTest1
     {
